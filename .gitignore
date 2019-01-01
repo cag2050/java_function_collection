@@ -1,0 +1,7 @@
+.git
+.DS_Store
+
+out/
+
+.idea
+java_function_collection.iml
